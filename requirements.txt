@@ -1,0 +1,7 @@
+pandas
+palmerpenguins
+streamlit 
+numpy 
+scikit-learn 
+plotly 
+pillow
